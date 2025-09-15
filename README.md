@@ -72,7 +72,7 @@ This project addresses these problems by combining **semantic embeddings**, **at
 
 ---
 
-
+![Search Demo](/eg Result.png)
 
 
 
