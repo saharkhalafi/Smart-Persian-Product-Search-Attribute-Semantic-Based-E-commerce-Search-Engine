@@ -70,6 +70,10 @@ This project addresses these problems by combining **semantic embeddings**, **at
 - Combine **semantic similarity** + **attribute boosts** + **lexical score**
 - Return **top-K results** to the user
 
+---
+
+
+
 
 
 
