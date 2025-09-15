@@ -70,12 +70,6 @@ This project addresses these problems by combining **semantic embeddings**, **at
 - Combine **semantic similarity** + **attribute boosts** + **lexical score**
 - Return **top-K results** to the user
 
----
 
-## Installation
 
-```bash
-git clone https://github.com/yourusername/smart-persian-product-search.git
-cd smart-persian-product-search
-pip install -r requirements.txt
 
