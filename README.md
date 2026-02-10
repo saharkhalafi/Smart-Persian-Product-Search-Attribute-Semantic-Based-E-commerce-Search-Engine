@@ -38,6 +38,8 @@ This project addresses these problems by combining **semantic embeddings**, **at
 - FastAPI REST API for integration with e-commerce platforms
 
 ---
+## Demo
+![Screenshot](https://github.com/saharkhalafi/Smart-Persian-Product-Search-Attribute-Semantic-Based-E-commerce-Search-Engine/blob/main/eg%20Result.png) 
 
 ## Architecture / Method
 
